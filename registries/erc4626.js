@@ -382,10 +382,6 @@ const configs = {
   'primestaking-xyz': {
     xdc: ['0xDc74c0DaED82ae94486DeeF22991d2F54173c734'],
   },
-  'y10k-capital': {
-    ethereum: ['0x953972ea0C1703c58F09FB6fD2477Fdcf0FEe074'],
-    sei: ['0x6137dcfdd3c83fe2922b1cba4105d2e92b327a06'],
-  },
   'apyee': {
     methodology: "Sum of totalAssets() reported by each Apyee VaultV2 across supported chains — includes idle USDC plus assets currently deployed into whitelisted DeFi lending strategies (Aave V3, Compound V3, Morpho MetaMorpho, Fluid, Venus, Spark).",
     ethereum: ['0xE46aac58214B963125a3A88541e1DBE56c4eD5f7'],
