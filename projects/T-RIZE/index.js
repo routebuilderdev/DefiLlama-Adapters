@@ -28,8 +28,7 @@ const chains = ["base"]
 
 chains.forEach(chain => {
   module.exports[chain] = {
-    tvl,
-    misrepresentedTokens: true
+    tvl
   }
 })
 
